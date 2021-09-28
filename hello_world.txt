@@ -1,1 +1,6 @@
 This is a sample file for Hello World repository.
+
+This new line to learn how to undo things in git, using 
+    1. Checkout commit
+    2. Reverse commit 
+    3. Reset commit
